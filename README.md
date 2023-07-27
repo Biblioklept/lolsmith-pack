@@ -2,8 +2,9 @@
 
 A default edit that's highly modular and with a focus on PVP. Currently mainly for 1.7/1.8 but can be made compatible for post-1.9 updates.
 
-If you want to convert it replace any folders with its `-newer` counterpart.
-
-It's recommended you look at the `items_swordtypes` and `items_bowtypes`.
-
 Download by clicking on the `Code` button and clicking `Download ZIP`.
+
+### Notes
+1. If you want to convert it to post-1.9 updates replace any folders with its `-newer` counterpart.
+2. Look at the `items_swordtypes`, `items_bowtypes`, and `items_axetypes` for customization of items.
+3. It's recommended that you copy over the files you want to use, and if you want to change them out for new ones or wipe the ones you're using, use the `resetitemsfolder` file.
