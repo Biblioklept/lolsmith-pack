@@ -1,4 +1,6 @@
-del *_axe.png
-del *_sword.png
-del bow_*.png
-del fishing_rod_*.png
+@echo off
+
+DEL *_axe.png
+DEL *_sword.png
+DEL bow_*.png
+DEL fishing_rod_*.png
