@@ -5,4 +5,5 @@ A default edit that's highly modular and with a focus on PVP. Currently mainly f
 ### Notes
 1. If you want to convert it to post-1.9 updates replace any folders with its `-newer` counterpart.
 2. Look at the `items_swordtypes`, `items_bowtypes`, and `items_axetypes` for customization of items.
-3. It's recommended that you copy over the files you want to use, and if you want to change them out for new ones or wipe the ones you're using, use the `resetitemsfolder` file.
+3. Look at the `icon_variations` in `gui` for customization of icons.
+4. It's recommended that you copy over the files you want to use, and if you want to change them out for new ones or wipe the ones you're using, use the `resetitemsfolder` file.
