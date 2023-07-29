@@ -3,6 +3,7 @@ A default edit that's highly modular and with a focus on PVP. Currently mainly f
 > [Download](https://github.com/Biblioklept/lolsmith-pack/archive/refs/heads/main.zip)
 
 ### Notes
+- The resourcepack will note that it's for a "newer version" **ignore this**.
 - If you want to convert it to post-1.9 updates replace any folders with its `-newer` counterpart.
 - Look at the `items_axetypes`, `items_bowtypes`, `items_fishingrodtypes`, and `items_swordtypes` for customization of items.
 - Look at the `icon_variations` in `gui` for customization of icons.
