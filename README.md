@@ -1,4 +1,7 @@
 # LOLSMITH Pack
+
+LOADS OF LITTLE STEREOTYPICAL MODIFICATIONS IN TEXTURES HELPER.
+
 A default edit that's highly modular and with a focus on PVP. Currently mainly for 1.7/1.8 but can be made compatible for post-1.9 updates.
 > [Download](https://github.com/Biblioklept/lolsmith-pack/archive/refs/heads/main.zip)
 
